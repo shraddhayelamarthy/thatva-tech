@@ -1,0 +1,11 @@
+h1 {
+	color:Green;
+}
+
+span:hover {background-color:black,padding: 0 0 0 850px}
+
+span.works{color:black;padding:0 0 0 850px;}
+
+span.about{color: black;padding: 0 0 0 10px}
+
+span.contact {border:solid 5px;color:white; background-color:black;padding: 10px 10px 10px 10px}
